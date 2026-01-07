@@ -30,4 +30,18 @@ Retail Performance Intelligence Dashboard built in Excel using POS/ERP data to a
 
 ## Presentation
 
-<img width="1085" height="612" alt="Screenshot 2026-01-07 at 11 55 49 PM" src="https://github.com/user-attachments/assets/4ac945a1-495f-43ff-9db1-8e61fca6aa7f" />
+![1](https://github.com/user-attachments/assets/b197eaf8-8b27-434f-ba2e-852a68b1fe49)
+![2](https://github.com/user-attachments/assets/d73282d9-a128-479f-aab1-14c10d62767b)
+![3](https://github.com/user-attachments/assets/9ee92790-97d7-4d78-a217-891ffda6c2fa)
+![4](https://github.com/user-attachments/assets/7c32b2f5-384a-4334-870a-122fa5006d25)
+![5](https://github.com/user-attachments/assets/a2883283-c64a-4a09-9b13-a4573a0409c7)
+![6](https://github.com/user-attachments/assets/d873e016-0102-4647-902b-196b002fb2e6)
+![7](https://github.com/user-attachments/assets/84c9b6c3-f61d-45af-9395-51ad64a780ac)
+![8](https://github.com/user-attachments/assets/9e8eebcf-56de-4192-82fd-7a0416103166)
+![9](https://github.com/user-attachments/assets/8b8ae722-f8fd-4992-a6f0-94b702797c1b)
+![10](https://github.com/user-attachments/assets/3fd100da-3481-48a0-8a18-8f340e20c841)
+![11](https://github.com/user-attachments/assets/8b1e4c90-b381-4634-90c1-f40d8c4d07a9)
+![13](https://github.com/user-attachments/assets/4e931907-10bb-4129-ab06-8309b1070d45)
+![14](https://github.com/user-attachments/assets/9f4856fd-8d5d-456b-9495-d7c0cfe0dddd)
+
+
