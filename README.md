@@ -15,3 +15,15 @@ Retail Performance Intelligence Dashboard built in Excel using POS/ERP data to a
 - How does quantity sold vary across different items?
 - How does category-wise revenue distribution differ across states?
 - Which sales channel contributes the maximum share of overall revenue?
+
+## Process Followed
+- Generated structured retail transaction data for analysis.
+- Cleaned and formatted raw data using Excel and Power Query.
+- Created calculated fields such as sales, profit, and discount buckets.
+- Built pivot tables to compute and analyze key KPIs.
+- Generated charts for trend analysis and performance comparison.
+- Designed an interactive dashboard using slicers.
+- Interpreted insights to support business decision-making.
+
+## Dashboard
+- <a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
