@@ -28,7 +28,7 @@ Retail Performance Intelligence Dashboard built in Excel using POS/ERP data to a
 ## Dashboard
 - <a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
 
-## Presentation
+## Presentation (PPT)
 
 ![1](https://github.com/user-attachments/assets/b197eaf8-8b27-434f-ba2e-852a68b1fe49)
 ![2](https://github.com/user-attachments/assets/d73282d9-a128-479f-aab1-14c10d62767b)
