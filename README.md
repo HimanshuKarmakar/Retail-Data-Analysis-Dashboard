@@ -27,3 +27,21 @@ Retail Performance Intelligence Dashboard built in Excel using POS/ERP data to a
 
 ## Dashboard
 - <a href="https://docs.google.com/spreadsheets/d/11NPKPsQxJF5rV12CuqvxIZBaumOeLG12UdS7gXhGcM4/edit?usp=sharing"> View Dashboard</a>
+
+## 🔍 Key Insights (Summary)
+- A small number of states contribute a disproportionately high share of total sales.
+- Certain product categories drive most revenue, while some high-volume items show lower profitability due to discounts and returns.
+- Sales channels differ significantly in performance, with online delivery showing higher return rates.
+- Higher sales volume does not always translate into higher profitability.
+
+---
+
+## 📽 Presentation & Documentation
+A detailed presentation is included in the repository explaining:
+- Project objective and problem statement
+- Dashboard workflow and design
+- Analysis approach
+- Screenshots from different project stages
+
+## 🚀 Outcome
+This project demonstrates practical Excel-based data analysis and dashboarding skills with a strong focus on business understanding, KPI analysis, and actionable insights.
